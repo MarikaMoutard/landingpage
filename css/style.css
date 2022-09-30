@@ -1,0 +1,86 @@
+.logo{
+    width: 8%;
+}
+ul{
+    padding: 0px;
+    list-style-type: none;
+}
+li{
+    padding: 2em;
+  }
+.barre{
+    display: flex;
+}
+.barre1{
+    background-color: gray;
+}
+.barre2{
+    background-color:gray;
+}
+.barre3{
+    background-color: gray;
+}
+.barre4{
+    background-color: gray;
+}
+.barre5{
+    background-color:gray;
+}
+.barre6{
+    background-color: gray;
+}
+.barre{
+    display: flex;
+    justify-content: center;
+    }
+.allignement{
+    display: flex;
+    justify-content: center;
+}
+.titre{
+    font-size: 200%;
+
+}
+.sec1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.photocasque{
+    display: flex;
+    justify-content: center;
+    height: 22% ;
+    width: 22% ;
+ 
+}
+.sec2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.couleurs{
+    height:22% ;
+    width:22% ;
+    display: flex;
+    justify-content: center;
+}
+.allignement {
+    display: flex;
+    justify-content:center
+    flex-direction:row;
+}
+.sec2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.texte1{
+    width: 50%;
+}
+.texte2{
+    width: 50%;
+}
+.TITREPRIX{
+    display: flex;
+    justify-content: center;
+}
